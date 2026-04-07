@@ -8,5 +8,9 @@ I used many tools: Python 3, VS code, and Git for version control.
 #Lesson 2: Variables,Input, F-String 
 In his lesson I learned how to create code for inputs and variables 
 As a mini project, I created a story generator using my new skills. 
+### Project 1:ASCII Art
+-**Skill Learned:** Multi-line strings and terminal formatting.
+-**Challenge:** Creating a visual"Daisy"Flower"" sign for my respitory
+I chose to write daisy becuase my profile picture I daisy from mario cart and I drew a flower becuase it was matching
 
  

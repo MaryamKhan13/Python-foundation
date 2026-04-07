@@ -9,7 +9,7 @@ Teacher=input("Enter a teacher:")
 Adjective=input(" Enter an adjective:")
 Time=input("Enter a time:")
 # Creating a story
-story=f{"One day at{time}{name}, went to{Place} to eat{Food} with there{Friend}.Next they went to play{Action}. It was a {Adjective} day and they were feeling{Feeling} until, they saw{Teacher}. They then suddenly started{Verb ending in -ing}."}
+story=f"One day at,{Time},{name}, went to {place} to eat {Food} with there {Friend}.Next they went to play{action}. It was a {Adjective} day and they were feeling{feeling} until, they saw{Teacher}. They then suddenly started{action}."
 print("/n---YOUR ADVENTURE STORY---")
-print(story)\
+print(story)
     

@@ -13,7 +13,7 @@ As a mini project, I created a story generator using my new skills.
 -**Challenge:** Creating a visual"Daisy"Flower"" sign for my respitory
 I chose to write daisy becuase my profile picture is daisy from Mario cart and I drew a flower becuase it was matching
 
-### Project 2:Report card printer
+### Mini project :Report card printer
 My next project on git hub was creating a printer to produce a report card.
 It used the skills i learned from the prevoius lesson which included the Print,Input,and Output.
 The project was very succesful and it was a fun and easy project to code.

@@ -11,6 +11,6 @@ As a mini project, I created a story generator using my new skills.
 ### Project 1:ASCII Art
 -**Skill Learned:** Multi-line strings and terminal formatting.
 -**Challenge:** Creating a visual"Daisy"Flower"" sign for my respitory
-I chose to write daisy becuase my profile picture I daisy from mario cart and I drew a flower becuase it was matching
+I chose to write daisy becuase my profile picture is daisy from Mario cart and I drew a flower becuase it was matching
 
  

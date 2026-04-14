@@ -20,7 +20,7 @@ customer_one_itemization +=chiilen_chair_description +"/n"
 
 #The customer also  decides to buy a Peachin Patio Set
 customer_one_total +=peachin_patio_set_price
-customer_one_itemization +=peachin_patio_set_description +"/n"
+customer_one_itemization += peachin_patio_set_description +"/n"
  
  #Calculate the Tax based on subtotal
 customer_one_tax = customer_one_total * sales_tax

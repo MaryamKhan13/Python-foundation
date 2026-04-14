@@ -30,15 +30,15 @@ customer_one_tax = customer_one_total * sales_tax
 customer_one_total +=customer_one_tax
 
 #We use f-strings for professional currency formatting
-print("\n" +"*""30")
-print( "OFFICIAL RECEIPT")
+print("\n" +"*"*30)
+print(" OFFICIAL RECEIPT")
 print("*"*30)
 
 print("/nCUSTOMER ITEMS:")
 print( customer_one_itemization)
 
 print("-"*30)
-print(f"SUBTOTAL +TAX: ${customer_one_total:.2f}")
+print(f"SUBTOTAL+TAX:${customer_one_total:.2f}")
 print("*"*30)
 print(" THANK YOU FOR SHOPPING")
 print("*"*30)

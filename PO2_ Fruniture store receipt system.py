@@ -41,6 +41,3 @@ print(f"SUBTOTAL +TAX: ${customer_one_total:.2f}")
 print("*"*30)
 print(" THANK YOU FOR SHOPPING")
 print("*"*30)
-    
-
- 

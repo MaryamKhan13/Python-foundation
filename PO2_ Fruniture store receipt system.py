@@ -10,9 +10,10 @@ peachin_patio_set_price= 570.00
 
 #We set a tax of(5.4%)
 sales_tax=0.544444
+ 
  #Every customer starts with o dollars and no items
 customer_one_total=0
-customer_one_itemization=0
+customer_one_itemization=""
 
 #The customer decides to buy a Chillen Chair
 customer_one_total +=chillen_chair_price
@@ -29,7 +30,7 @@ customer_one_tax = customer_one_total * sales_tax
 customer_one_total +=customer_one_tax
 
 #We use f-strings for professional currency formatting
-print("\n"+"*""30")
+print("\n" +"*""30")
 print( "OFFICIAL RECEIPT")
 print("*"*30)
 

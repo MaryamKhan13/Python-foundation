@@ -23,3 +23,6 @@ My code helps show  checkout system for a furniture store by creating a recipt o
 
 ### Mini project: Descion maker
 I made this code to help the figure out if the user is not a hacker. The code has a set secret password and if the user puts it is then they have access. If the user inputs the wrong password that their acess id denied. I used the code IF and Else. 
+
+### Mini project: Ticket price 
+I craeted a code for ticket pricing by using the statments if-elif-else. Forits asks the use for its age. If their under 13 then their ticket is $5. If their under 20 their ticket is $10. And if thei above 20 their ticket is $15.Its a simple code where the descions are based on input.

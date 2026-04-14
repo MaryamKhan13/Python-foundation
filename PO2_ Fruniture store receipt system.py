@@ -30,7 +30,7 @@ customer_one_tax = customer_one_total * sales_tax
 customer_one_total +=customer_one_tax
 
 #We use f-strings for professional currency formatting
-print("\n" +"*"*30)
+print("/n" +"*"*30)
 print(" OFFICIAL RECEIPT")
 print("*"*30)
 

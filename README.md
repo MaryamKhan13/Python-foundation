@@ -26,3 +26,6 @@ I made this code to help the figure out if the user is not a hacker. The code ha
 
 ### Mini project: Ticket price 
 I craeted a code for ticket pricing by using the statments if-elif-else. Forits asks the use for its age. If their under 13 then their ticket is $5. If their under 20 their ticket is $10. And if thei above 20 their ticket is $15.Its a simple code where the descions are based on input.
+
+### Project 3:
+In this project I made a script to choose a fortune number and motivational script. Random number and  a matching fortune/ motivational message, and prints a random lucky number.

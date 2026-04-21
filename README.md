@@ -29,3 +29,5 @@ I craeted a code for ticket pricing by using the statments if-elif-else. Forits 
 
 ### Project 3:
 In this project I made a script to choose a fortune number and motivational script. Random number and  a matching fortune/ motivational message, and prints a random lucky number.
+### Mini lesson: Rockets
+It counts down from 10 to 1 as if it was a real rocket countdown. it uses diffrent codes like while‑loop and it prints “T‑Minus X…”, then prints “LIFTOFF!” at the end of the countdown.

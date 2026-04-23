@@ -4,10 +4,10 @@ def start_room():
  choice=input("Do you ask[1]What symtoms are you feeling or [2] Let me get the xray machine ready to see your arm?")
  if choice=="1":
   print(" My symptoms are throwing up non stop and not being able to eat.")
- return"examine_room" # Moving to the next stage 
+  return"examine_room" # Moving to the next stage 
  else:
-print(" I think you misunderstood me. I have a stomach bug AND YOU KNOW THAT.")  
-return "end"
+  print(" I think you misunderstood me. I have a stomach bug AND YOU KNOW THAT.")  
+ return "end"
 def examine_room():
   print("n\---THE LAST PHASE---")
 print("YOUR PATIENT’S SYMPTOMS ARE CLEARLY A SIGN OF A STOMACH BUG. YOU HAVE ONE CHANCE FOR A DIAGNOSIS TO LIVE. CHOOSE THE BEST SOLUTION.")
@@ -18,11 +18,10 @@ return "end"
 else:
 print(" You did not listne to me at all. THE PATIENT LEFT ANGERLIY AND LATER RETURNED DUE TO HER DIESIES INCREASING BECUASE SHE REFUSED THE MEDICATION. YOU THEN GOT FIRED AND DIED THE SAME WEEK DUE TO YOUR FAILED JOB. YOU LOSE")  
 return "end"
-  
-current_room="start"
-print("Welcome to docter simulater")
-while current_room!="end":
- if current_room=="satrt":
-current_room=start_room()
-elif current_room=="examine_room":
-current_room=tresure_room()
+ current_room="start"
+ print("Welcome to docter simulater")
+ while current_room!="end":
+    if current_room=="satrt":
+       current_room=start_room() 
+    elif current_room=="examine_room":
+     current_room=tresure_room()

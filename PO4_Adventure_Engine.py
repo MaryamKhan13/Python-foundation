@@ -29,23 +29,4 @@ while current_room != "end":
     if current_room == "start":
         current_room = start_room()
     elif current_room == "examine_room":
-        current_room = examine_room()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        current_room = examine_room

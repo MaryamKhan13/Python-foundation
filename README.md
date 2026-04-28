@@ -36,13 +36,13 @@ It counts down from 10 to 1 as if it was a real rocket countdown. it uses diffre
 In this project I created a lottery ticket that chooses 10 random numbers and keeps adding more to each number and the string keeps growing
 
 Project 4:
-
-
-
-
-
-
+My docter simulater is an adventure i codied where the fate is in the players hand. I coded corre t responses and questons that the player must answer. I used fuctions,Input, and Conditional like if or else. There is also a game loop and return values.
 
 Ordered Data lesson:
+
+
+
+
+Cava Sales:
 
 

@@ -16,11 +16,11 @@ if choice=="1":
  print(" Thank you so much. THE PATIENT LEFT HAPPILY AND YOU STAYED ALIVE BECUASE OF THE GREAT FEEDBACK SHE GAVE. CONGRATS YOU WIN!")
 return "end"
 else:
-print(" You did not listne to me at all. THE PATIENT LEFT ANGERLIY AND LATER RETURNED DUE TO HER DIESIES INCREASING BECUASE SHE REFUSED THE MEDICATION. YOU THEN GOT FIRED AND DIED THE SAME WEEK DUE TO YOUR FAILED JOB. YOU LOSE")  
+print(" You did not listen to me at all. THE PATIENT LEFT ANGERLIY AND LATER RETURNED DUE TO HER DIESIES INCREASING BECUASE SHE REFUSED THE MEDICATION. YOU THEN GOT FIRED AND DIED THE SAME WEEK DUE TO YOUR FAILED JOB. YOU LOSE")  
 return "end"
- current_room="start"
- print("Welcome to docter simulater")
- while current_room!="end":
+current_room="start"
+print("Welcome to docter simulater")
+while current_room!="end":
     if current_room=="satrt":
        current_room=start_room() 
     elif current_room=="examine_room":

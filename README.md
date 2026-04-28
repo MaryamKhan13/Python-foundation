@@ -39,6 +39,7 @@ Project 4:
 My docter simulater is an adventure i codied where the fate is in the players hand. I coded corre t responses and questons that the player must answer. I used fuctions,Input, and Conditional like if or else. There is also a game loop and return values.
 
 Ordered Data lesson:
+I created a list tha helps store items and elemnts using index points. I have an append to add, insert to add at a certai point, and pop to remove one.
 
 
 

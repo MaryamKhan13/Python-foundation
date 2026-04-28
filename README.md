@@ -41,6 +41,9 @@ My docter simulater is an adventure i codied where the fate is in the players ha
 ### Ordered Data lesson:
 I created a list tha helps store items and elemnts using index points. I have an append to add, insert to add at a certai point, and pop to remove one.
 
-Cava Sales:
+### Cava Sales:
+I Created two lists, Base and prices and put them as a pair using zip. This formed the bowl list.I printed a menu and sorted the bowl from cheapest to most expensive and it showed budject options.
+
+
 
 

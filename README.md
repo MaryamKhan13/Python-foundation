@@ -34,3 +34,15 @@ It counts down from 10 to 1 as if it was a real rocket countdown. it uses diffre
 
 ### Lesson 3:
 In this project I created a lottery ticket that chooses 10 random numbers and keeps adding more to each number and the string keeps growing
+
+Project 4:
+
+
+
+
+
+
+
+Ordered Data lesson:
+
+

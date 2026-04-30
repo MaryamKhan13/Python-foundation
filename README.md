@@ -43,6 +43,9 @@ I created a list tha helps store items and elemnts using index points. I have an
 
 ### Cava Sales:
 I Created two lists, Base and prices and put them as a pair using zip. This formed the bowl list.I printed a menu and sorted the bowl from cheapest to most expensive and it showed budject options.
+ 
+ ### Attendance project:
+  I wrote a python code that creates an attendance sheet and it add the name and wheather they are here or absent. 
 
 
 

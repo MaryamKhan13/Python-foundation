@@ -48,7 +48,7 @@ I Created two lists, Base and prices and put them as a pair using zip. This form
   I wrote a python code that creates an attendance sheet and it add the name and wheather they are here or absent. 
   
   ### Support System:
-  I woret a simpel code working as a support systm that lets the user create new tickets, view tickets, and quit. The tickets made are saved an can be viewed.
+  I wrote a simpel code working as a support system that lets the user create new tickets, view tickets, and quit. The tickets made are saved an can be viewed.
 
 
 

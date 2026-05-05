@@ -22,7 +22,15 @@ while True
      (user_score=="scissors"and computer_choice=="paper"):
     print("You Win!")
     user_score+= 1
-else
+else:
    print("Computer Wins!")
    computer_score+=1
-   
+print(f"Scoreboard-> You: {user_score}|Computer: {computer_score}\n")
+
+with open("game_results.txt","a") as f:
+   f.write(f"Final score-Player:{user_score}, Computer:{computer_score}\n")
+   print("\nThanks for playing! Your results have been saved to game_results.txt.")
+play_game()
+
+
+ 

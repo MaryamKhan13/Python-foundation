@@ -1,18 +1,19 @@
 import random 
-def play_game(): 
-    options=("rock","paper","scissors")
+def play_game():
+options = ["rock","paper","scissors"]
 user_score=0 
 computer_score=0 
-print("---Welcome to the pyhton battle arena---") 
+print("---Welcome to the Pyhton battle arena---") 
 while True: 
-    user_choice=input("\nChoose rock,paper, or scissors(or type 'quit' to exit):").lower() 
+    user_choice=input("\nChoose rock,paper,or scissors(or type 'quit' to exit):").lower() 
     if user_choice=='quit': 
      break 
-if user_choice not in options: 
-    print("Invalid choice! Try Again") 
- # Computer makes a random choice 
+    if user_choice not in options: 
+     print("Invalid choice! Try Again") 
+    continue
+#Computer makes a random choice 
 computer_choice = random.choice(options) 
-print(f"Computer chose: {computer_choice}") 
+print(f"Computer chose:{computer_choice}")
 #Determine the winner
 if user_choice==computer_choice:
     print("Its a TIE!")
